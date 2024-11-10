@@ -25,7 +25,7 @@ This is my personal portfolio website. It includes information about myself, my 
   - Contact form (sends email)
   - Responsive design
 
-[Link to MyPortfolio repository](https://github.com/hiruykassa/MyPortfolio)
+[Link to MyPortfolio repository](MyPortfolio)
 
 ## Getting Started
 
