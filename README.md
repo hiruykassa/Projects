@@ -12,7 +12,7 @@ FlagFinder is a project that helps users identify flags of various countries. Us
   - Search for flags by country
   - Display flag information and images
 
-[Link to FlagFinder repository](https://github.com/hiruykassa/FlagFinder)
+[Link to FlagFinder repository](FlagFinder)
 
 ---
 
